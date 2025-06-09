@@ -1,0 +1,1962 @@
+Apparel：
+Case1：summer dress
+Customer：Do you have any discounts for the summer dresses?
+Servicer：Yes, we have a 15% discount on summer dresses this week.
+Customer：What materials are the dresses made of?
+Servicer：They are made from soft cotton and linen, perfect for hot weather.
+Customer：Are the dresses available in different colors?
+Servicer：Yes, we have them in red, blue, white, and black.
+Customer：Is the sizing true to fit?
+Servicer：Yes, we recommend referring to the size chart for the best fit.
+Customer：Can I return the dress if it doesn’t fit?
+Servicer：Absolutely, we offer a 30-day return policy.
+Customer：Great, I’ll go ahead and place an order!
+
+Case2：jacket 
+Customer：Does this jacket have a hood?
+Servicer：Yes, it comes with a detachable hood.
+Customer：Is it waterproof?
+Servicer：Yes, it’s made with waterproof material to keep you dry in the rain.
+Customer：How warm is it?
+Servicer：It’s insulated with a light, warm filling, perfect for fall and winter.
+Customer：Can I machine wash it?
+Servicer：Yes, it’s machine washable, but we recommend cold water for longer durability.
+Customer：Are there any other colors?
+Servicer：Yes, it’s available in navy, black, and grey.
+Customer：I’ll order the navy one then, thanks!
+
+Case3：jeans 
+Customer：Do you offer any sales on jeans?
+Servicer：Yes, our jeans are 20% off right now.
+Customer：Are these jeans slim fit or regular?
+Servicer：These are slim fit jeans with a stretchy material for comfort.
+Customer：Are they available in different waist sizes?
+Servicer：Yes, we have a wide range of waist sizes, from 28 to 36.
+Customer：Do they shrink after washing?
+Servicer：No, they are pre-washed and should retain their shape after washing.
+Customer：Are these jeans suitable for casual wear?
+Servicer：Yes, they are perfect for casual or semi-casual outfits.
+Customer：Perfect, I’ll add them to my cart.
+
+Case4：dress
+Customer：Can I find a dress for a formal occasion here?
+Servicer：Yes, we have a selection of formal dresses for different occasions.
+Customer：What materials do the formal dresses come in?
+Servicer：They come in high-quality satin, chiffon, and velvet fabrics.
+Customer：Can I choose the length of the dress?
+Servicer：Yes, we have options for both knee-length and floor-length dresses.
+Customer：Are the dresses in standard sizes or custom sizes?
+Servicer：We offer both, with standard sizes and custom tailoring available.
+Customer：Can I get the dress delivered within a week?
+Servicer：Yes, we offer express shipping for delivery within 5-7 business days.
+Customer：I’ll pick one and order it today.
+
+Case5：shoe
+Customer：Do you have any trendy shoes on sale?
+Servicer：Yes, we have 10% off on trendy sneakers this week.
+Customer：Are the shoes comfortable for long walks?
+Servicer：Yes, they have memory foam insoles for added comfort.
+Customer：What sizes do they come in?
+Servicer：We have sizes from 36 to 42.
+Customer：Are these shoes suitable for both men and women?
+Servicer：These sneakers are unisex, and available in neutral colors.
+Customer：Are they easy to clean?
+Servicer：Yes, they are made of easy-to-clean synthetic material.
+Customer：Great, I’ll buy a pair today.
+
+Case6：sweatshirt
+Customer：Are these sweatshirts available in large sizes?
+Servicer：Yes, we offer sweatshirts up to size 2XL.
+Customer：Is the material soft and warm?
+Servicer：Yes, it’s made of soft cotton and fleece lining for warmth.
+Customer：Do they come with a pocket?
+Servicer：Yes, these sweatshirts come with a front pocket.
+Customer：Are they available in any colors other than grey?
+Servicer：Yes, they come in navy, black, and burgundy.
+Customer：Can I wash it in the machine?
+Servicer：Yes, they are machine washable on a gentle cycle.
+Customer：I’ll pick the black one, thanks!
+
+Case7：sweater
+Customer：Is this sweater available in plus sizes?
+Servicer：Yes, we offer sweaters in sizes up to 3XL.
+Customer：How soft is the material?
+Servicer：It’s made with a soft blend of cotton and acrylic for warmth and comfort.
+Customer：Can I wear this sweater for office wear?
+Servicer：Yes, it’s elegant enough for office wear, paired with trousers or skirts.
+Customer：Does it have any patterns or is it solid color?
+Servicer：It comes in solid colors, but we also have a few striped designs.
+Customer：Is it good for cold weather?
+Servicer：Yes, it’s thick enough to keep you warm during chilly days.
+Customer：I’ll go for the grey one, thanks!
+
+Case8：leather jacket
+Customer：Is this leather jacket durable?
+Servicer：Yes, it’s made with high-quality genuine leather that’s built to last.
+Customer：Does it come in any other styles?
+Servicer：Yes, we have biker-style, bomber-style, and classic cuts.
+Customer：Is it suitable for wearing in winter?
+Servicer：Yes, it’s lined with a warm polyester interior, perfect for cold weather.
+Customer：How should I take care of the leather?
+Servicer：We recommend using leather conditioner and avoiding water exposure.
+Customer：Can I wear it casually?
+Servicer：Yes, it pairs well with jeans or casual pants for a stylish look.
+Customer：I’ll buy the classic cut, thanks!
+
+Case9：casual T-shirts
+Customer：Do you have any casual T-shirts on sale?
+Servicer：Yes, we’re offering 10% off on all casual T-shirts right now.
+Customer：What’s the material of the T-shirts?
+Servicer：They are made from 100% breathable cotton for comfort.
+Customer：Are there any graphic designs on the T-shirts?
+Servicer：Yes, we have a variety of designs, including logos, animals, and abstract art.
+Customer：Do they fit true to size?
+Servicer：Yes, our T-shirts are designed to fit comfortably without being too tight or loose.
+Customer：Can I machine wash these T-shirts?
+Servicer：Yes, they are machine washable on a gentle cycle.
+Customer：Great, I’ll order two!
+
+Case10：activewear
+Customer：Are there any activewear sets for women on sale?
+Servicer：Yes, we have activewear sets 15% off for a limited time.
+Customer：What’s included in the activewear set?
+Servicer：The set includes a sports bra, leggings, and a matching top.
+Customer：Are the leggings squat-proof?
+Servicer：Yes, the leggings are made with a stretchy, squat-proof fabric.
+Customer：Are these sets good for yoga?
+Servicer：Yes, they are designed for comfort during yoga and other fitness activities.
+Customer：Can I mix and match the set with other pieces?
+Servicer：Yes, the pieces are versatile and can be worn separately or together.
+Customer：Perfect, I’ll order one now.
+
+Case11
+Goods：Men's casual pants
+Customer：Are these men's pants available in larger sizes?
+Servicer：Yes, we have sizes up to 3XL.
+Customer：What material are these pants made of?
+Servicer：They’re made of a cotton blend, perfect for everyday wear.
+Customer：Do these pants have pockets?
+Servicer：Yes, they have two front pockets and two back pockets.
+Customer：Are they suitable for office wear?
+Servicer：Yes, these pants can be worn both casually and at the office.
+Customer：Are they machine washable?
+Servicer：Yes, they are machine washable.
+Customer：Great, I’ll get a pair.
+
+Case12
+Goods：women’s workout shorts
+Customer：Are these women’s workout shorts available in different colors?
+Servicer：Yes, we have them in black, grey, and navy.
+Customer：What material is used for these shorts?
+Servicer：They’re made from moisture-wicking polyester, ideal for workouts.
+Customer：Do they have a built-in liner?
+Servicer：Yes, these shorts come with a soft inner liner for extra comfort.
+Customer：Can I wear them for yoga or running?
+Servicer：Yes, they’re perfect for both yoga and running due to their flexibility.
+Customer：Are these shorts true to size?
+Servicer：Yes, they run true to size, but we recommend checking the size guide.
+Customer：I’ll grab a pair in black!
+
+Case13
+Goods：Women's dress
+Customer：Do you have any formal dresses for women?
+Servicer：Yes, we have a selection of elegant evening gowns and cocktail dresses.
+Customer：Are they available in larger sizes?
+Servicer：Yes, we offer sizes up to 2XL for most dresses.
+Customer：What fabric is used for these dresses?
+Servicer：Our dresses are made from satin, chiffon, and lace for a luxurious feel.
+Customer：Do they have a zipper or buttons?
+Servicer：Most of our dresses have a concealed zipper at the back.
+Customer：Are they suitable for weddings?
+Servicer：Yes, many of our dresses are perfect for weddings and other formal events.
+Customer：I’ll order one for an upcoming wedding.
+
+Case14
+Goods：Women's wool coat
+Customer：Is this wool coat available in different colors?
+Servicer：Yes, it comes in beige, grey, and black.
+Customer：What material is this coat made of?
+Servicer：It’s made from 80% wool and 20% polyester for warmth and durability.
+Customer：Is this coat suitable for very cold weather?
+Servicer：Yes, it’s designed to keep you warm in chilly conditions.
+Customer：Can I machine wash it?
+Servicer：No, we recommend dry cleaning to maintain its quality.
+Customer：Is the coat lined?
+Servicer：Yes, it’s fully lined with soft polyester.
+Customer：I’ll get the beige one, thanks!
+
+Case15
+Goods：Sneakers
+Customer：Are these casual sneakers comfortable for everyday use?
+Servicer：Yes, they have a cushioned insole and a flexible outsole for comfort.
+Customer：What sizes are available?
+Servicer：We have sizes from 36 to 44.
+Customer：Are they equipped with anti-slip features?
+Servicer：Yes, the soles are designed to provide excellent grip.
+Customer：Can I wear them for running or just casual use?
+Servicer：They’re designed for casual use, but they also work for light jogging.
+Customer：Do they come in other colors?
+Servicer：Yes, they’re available in grey, navy, and black.
+Customer：Sounds good，I’ll take the grey ones.
+
+Case16
+Goods：Unisex T-shirt
+Customer：Are these T-shirts suitable for both men and women?
+Servicer：Yes, these T-shirts are unisex and come in a variety of sizes.
+Customer：What is the fabric made from?
+Servicer：They’re made from 100% cotton, perfect for warm weather.
+Customer：Are the T-shirts pre-shrunk?
+Servicer：Yes, they are pre-shrunk to maintain their size after washing.
+Customer：Do they come in different designs?
+Servicer：Yes, we have solid colors, graphic designs, and logo prints.
+Customer：Can I machine wash them?
+Servicer：Yes, they are machine washable and durable.
+Customer：Great, I’ll grab a few in different colors.
+
+Case17
+Goods：Women's Knitted Shirt
+Customer：Is this women’s sweater warm enough for winter?
+Servicer：Yes, it’s made from a thick knit material, perfect for cold weather.
+Customer：Are there any color options available?
+Servicer：Yes, it’s available in light grey, navy, and mustard.
+Customer：Is the fit loose or tight?
+Servicer：It has a relaxed fit, designed to be cozy and comfortable.
+Customer：Can I wear it with jeans?
+Servicer：Yes, it pairs well with jeans, leggings, or skirts.
+Customer：Can it be machine washed?
+Servicer：Yes, it’s machine washable, but we recommend washing it inside out.
+Customer：I’ll go for the mustard color, thanks!
+
+Case18
+Goods：Ladies' camisole
+Customer：Is this tank top suitable for summer?
+Servicer：Yes, it’s made from lightweight cotton, perfect for hot weather.
+Customer：Does it come with adjustable straps?
+Servicer：Yes, the straps are adjustable for a better fit.
+Customer：Is it available in different colors?
+Servicer：Yes, it comes in white, black, and coral.
+Customer：Can I wear it with jeans or shorts?
+Servicer：Yes, it’s a versatile piece that works with both jeans and shorts.
+Customer：Is it easy to care for?
+Servicer：Yes, it’s machine washable on a gentle cycle.
+Customer：I’ll get the black one.
+
+Case19
+Goods：Men's suit
+Customer：Is this suit suitable for formal events?
+Servicer：Yes, it’s a classic design, perfect for business meetings or weddings.
+Customer：What material is the suit made of?
+Servicer：It’s made of a wool blend for a polished look and comfortable fit.
+Customer：Are the pants included?
+Servicer：Yes, the suit comes with both the jacket and matching trousers.
+Customer：Are the pants adjustable?
+Servicer：Yes, the trousers have an adjustable waistband for a better fit.
+Customer：Can I wear this suit for daily office wear?
+Servicer：Yes, it’s versatile enough for daily office wear and formal occasions.
+Customer：I’ll go for the charcoal color.
+
+Case20
+Goods：Ladies underwear
+Customer：Is this sleepwear set soft and comfortable?
+Servicer：Yes, it’s made from a soft cotton blend that’s perfect for sleeping.
+Customer：Is it available in different sizes?
+Servicer：Yes, we offer sizes from S to XL.
+Customer：Does the set come with pants or just a top?
+Servicer：The set includes both a top and matching pants.
+Customer：Is it available in any colors?
+Servicer：Yes, it comes in pink, lavender, and navy.
+Customer：Can I machine wash it?
+Servicer：Yes, it’s machine washable and durable.
+Customer：I’ll buy the lavender set!
+
+
+Household Goods:
+Case1
+Goods：Memory foam pillow
+Customer：Is this memory foam pillow suitable for side sleepers?
+Servicer：Yes, it provides excellent neck support for side sleepers.
+Customer：Does it retain its shape over time?
+Servicer：Absolutely, it’s designed to bounce back after each use.
+Customer：Is the pillowcase removable and washable?
+Servicer：Yes, the cover is zippered and machine washable.
+Customer：Does it have any odor when unpacked?
+Servicer：There might be a slight scent initially, but it fades quickly.
+Customer：Is this pillow firm or soft?
+Servicer：It has medium firmness to balance support and comfort.
+Customer：Sounds good, I’ll buy one for myself.
+
+Case2
+Goods：Humidifier
+Customer：Is this humidifier quiet during operation?
+Servicer：Yes, it works under 30dB, perfect for night use.
+Customer：How long can it run with a full tank?
+Servicer：Up to 12 hours continuously.
+Customer：Does it have an auto shut-off feature?
+Servicer：Yes, it automatically turns off when the water runs out.
+Customer：Can I use essential oils with it?
+Servicer：This model supports essential oils.
+Customer：Is it easy to clean the tank?
+Servicer：Yes, the tank has a wide opening for easy cleaning.
+Customer：Great, I’ll order one for my bedroom.
+
+Case3
+Goods：LED desk lamp
+Customer：Does this desk lamp have adjustable brightness?
+Servicer：Yes, it has 5 brightness levels and 3 color modes.
+Customer：Can I adjust the lamp’s angle?
+Servicer：Yes, the neck is flexible and rotatable.
+Customer：Is it suitable for kids’ study tables?
+Servicer：Absolutely, it provides soft, eye-friendly light.
+Customer：Does it support USB charging?
+Servicer：Yes, it has a USB port on the base.
+Customer：Is the base stable?
+Servicer：Yes, the weighted base keeps it secure.
+Customer：Perfect, I’ll take one for my daughter.
+
+Case4
+Goods：Blackout curtain
+Customer：Are these blackout curtains effective at blocking light?
+Servicer：Yes, they block up to 95% of sunlight.
+Customer：Do they come in different lengths?
+Servicer：Yes, we offer sizes from 160cm to 260cm.
+Customer：Are they machine washable?
+Servicer：Yes, just use a gentle cycle and cold water.
+Customer：Do they include hooks or grommets?
+Servicer：They come with metal grommets for easy installation.
+Customer：Do they also reduce noise?
+Servicer：Yes, the thick fabric helps dampen sound.
+Customer：Awesome, I’ll buy a pair for the living room.
+
+Case5
+Goods：Clothing storage box
+Customer：Is this storage box foldable when not in use?
+Servicer：Yes, it can be flattened for easy storage.
+Customer：What material is it made of?
+Servicer：It’s made of durable non-woven fabric.
+Customer：Does it have handles?
+Servicer：Yes, handles are attached on both sides.
+Customer：Can I use it for seasonal clothing?
+Servicer：Yes, it’s ideal for clothes, blankets, and more.
+Customer：Is there a zipper on the top?
+Servicer：Yes, it has a clear top zipper lid.
+Customer：Perfect, I’ll get a set of three.
+
+Case6
+Goods：Wooden bookshelf
+Customer：Is this bookshelf made from real wood?
+Servicer：Yes, it’s made of solid pine wood.
+Customer：How many tiers does it have?
+Servicer：It has 5 shelves for ample storage.
+Customer：Can it hold heavy books?
+Servicer：Yes, each shelf supports up to 15kg.
+Customer：Is it easy to assemble?
+Servicer：Yes, we provide detailed instructions and tools.
+Customer：Is the surface waterproof?
+Servicer：Yes, it’s coated to resist moisture.
+Customer：Nice, I’ll add one to my cart.
+
+Case7
+Goods：Smart trash bin
+Customer：Does this smart trash bin open automatically?
+Servicer：Yes, it opens via motion sensor.
+Customer：Is it battery powered or rechargeable?
+Servicer：It runs on AA batteries.
+Customer：What’s the capacity?
+Servicer：It holds up to 12 liters.
+Customer：Is it suitable for a kitchen?
+Servicer：Yes, it's great for kitchens and bathrooms.
+Customer：Is it odor-proof?
+Servicer：Yes, the sealed lid keeps odors inside.
+Customer：I’ll get one for my kitchen!
+
+Case8
+Goods：Bath mat
+Customer：Is this bath mat safe for elderly people?
+Servicer：Yes, it has strong suction cups to prevent slipping.
+Customer：What material is used?
+Servicer：It’s made of soft and durable TPE.
+Customer：Is it easy to clean?
+Servicer：Yes, you can rinse or machine wash it.
+Customer：Does it dry quickly?
+Servicer：Yes, it has a quick-dry design.
+Customer：Is it mold-resistant?
+Servicer：Yes, it resists mold and mildew.
+Customer：Great, I’ll buy one for my parents.
+
+Case9
+Goods：Multi functional clothes hanger
+Customer：How many clothes can this hanger hold?
+Servicer：It can hold up to 5 garments vertically.
+Customer：Is it made of metal or plastic?
+Servicer：It’s made of stainless steel.
+Customer：Does it save closet space?
+Servicer：Yes, it helps maximize vertical space.
+Customer：Is it strong enough for jackets?
+Servicer：Yes, it supports heavy items too.
+Customer：Can I rotate it?
+Servicer：Yes, it rotates 360 degrees.
+Customer：Perfect, I’ll get a few sets.
+
+Case10
+Goods：Sofa cushion set
+Customer：Does this cushion set include both cover and insert?
+Servicer：Yes, both are included.
+Customer：Are the covers zippered?
+Servicer：Yes, they have hidden zippers.
+Customer：Are the patterns embroidered or printed?
+Servicer：They’re high-quality digital prints.
+Customer：What size are the cushions?
+Servicer：Each cushion is 45x45 cm.
+Customer：Can I machine wash the covers?
+Servicer：Yes, they’re machine washable.
+Customer：Awesome, I’ll order a couple sets.
+
+Case11
+Goods：Folding clothes rack
+Customer：Is this drying rack foldable for storage?
+Servicer：Yes, it folds flat and saves a lot of space.
+Customer：How many clothes can it hold?
+Servicer：It can hold up to 30 garments at once.
+Customer：Is it suitable for both indoor and outdoor use?
+Servicer：Yes, it's rust-resistant and very sturdy.
+Customer：Does it come assembled?
+Servicer：Minimal assembly is required, tools included.
+Customer：What material is it made of?
+Servicer：Aluminum alloy, light and durable.
+Customer：Great, I need one for my balcony.
+
+Case12
+Goods：Kitchen racks
+Customer：Does this kitchen rack require drilling into the wall?
+Servicer：No, it's a freestanding rack.
+Customer：How many tiers does it have?
+Servicer：It has 4 adjustable tiers.
+Customer：Can it support a microwave?
+Servicer：Yes, the bottom shelf is reinforced for heavy appliances.
+Customer：Is the surface rust-proof?
+Servicer：Yes, it’s coated to resist rust and moisture.
+Customer：Are the hooks included?
+Servicer：Yes, we include 8 hooks for utensils.
+Customer：Perfect, I’ll grab one for my kitchen.
+
+Case13
+Goods：Lazy sofa chair
+Customer：Is this floor chair adjustable?
+Servicer：Yes, it reclines in 5 positions.
+Customer：What’s the filling inside?
+Servicer：High-resilience sponge for comfort.
+Customer：Is the cover removable?
+Servicer：Yes, it has a zipper for easy removal.
+Customer：Is it suitable for gaming or reading?
+Servicer：Absolutely, it's designed for long sitting sessions.
+Customer：What colors are available?
+Servicer：We have grey, blue, and beige in stock.
+Customer：Awesome, I want the grey one.
+
+Case14
+Goods：Dustproof shoe cabinet
+Customer：Is this shoe rack enclosed?
+Servicer：Yes, it has a fabric cover with zippers.
+Customer：How many pairs of shoes does it hold?
+Servicer：It can store about 30 pairs.
+Customer：Is the frame metal or plastic?
+Servicer：The frame is made of sturdy steel tubes.
+Customer：Is it stable enough for boots?
+Servicer：Yes, you can adjust the height between layers.
+Customer：Is it easy to assemble?
+Servicer：Takes about 15–20 minutes, no tools required.
+Customer：Nice, I’ll get one.
+
+Case15
+Goods：Moisture proof floor mat
+Customer：Is this floor mat water-resistant?
+Servicer：Yes, it's made of waterproof EVA material.
+Customer：Is it suitable for kids to play on?
+Servicer：Yes, it’s soft and safe for crawling babies too.
+Customer：How large is a single piece?
+Servicer：Each piece is 60x60cm, and it’s interlocking.
+Customer：Can I cut it to fit odd corners?
+Servicer：Yes, it can be trimmed easily with scissors.
+Customer：Is it easy to clean?
+Servicer：Just wipe with a damp cloth.
+Customer：Great, I need a set.
+
+Case16
+Goods：Water absorbing floor mat (door mat)
+Customer：Is this doormat good for rainy days?
+Servicer：Yes, it absorbs water instantly and dries fast.
+Customer：Will it slip on smooth floors?
+Servicer：No, the bottom has non-slip rubber backing.
+Customer：Can I use it in the bathroom too?
+Servicer：Yes, it works well in bathrooms and entryways.
+Customer：Is the material soft or rough?
+Servicer：It’s soft microfiber with dense texture.
+Customer：Does it come in different sizes?
+Servicer：Yes, from 40x60cm to 60x90cm.
+Customer：Nice, I’ll take the medium one.
+
+Case17
+Goods：Table cloth set
+Customer：Is this tablecloth waterproof?
+Servicer：Yes, it’s made of water-repellent polyester.
+Customer：Does it come with napkins too?
+Servicer：Yes, each set includes 4 matching napkins.
+Customer：Is it machine washable?
+Servicer：Yes, very easy to maintain.
+Customer：Are the patterns printed or woven?
+Servicer：Printed with eco-friendly ink.
+Customer：Will the colors fade after washing?
+Servicer：No, they’re colorfast.
+Customer：I’ll order one for my dining room.
+
+Case18
+Goods：Magnetic whiteboard
+Customer：Is this whiteboard magnetic?
+Servicer：Yes, you can attach magnets and notes to it.
+Customer：What’s the size?
+Servicer：We offer sizes from A3 to 90x120cm.
+Customer：Does it come with markers and eraser?
+Servicer：Yes, markers, magnets, and an eraser are included.
+Customer：Can I hang it vertically or horizontally?
+Servicer：Yes, both orientations are supported.
+Customer：Is the surface easy to clean?
+Servicer：Yes, just wipe with the eraser or damp cloth.
+Customer：Great, I’ll buy one for home office.
+
+Case19
+Goods：Night light sensor light
+Customer：Does this night light turn on automatically?
+Servicer：Yes, it has a motion and light sensor.
+Customer：How long does it stay on?
+Servicer：It stays on for 20 seconds after detecting movement.
+Customer：Is it battery operated?
+Servicer：Yes, it uses 3 AAA batteries.
+Customer：Can I stick it on the wall?
+Servicer：Yes, it has adhesive pads and magnetic backing.
+Customer：Is the light warm or white?
+Servicer：It emits soft warm white light.
+Customer：Perfect, I need one for the hallway.
+
+Case20
+Goods：Kitchen oil proof sticker
+Customer：Is this sticker heat-resistant?
+Servicer：Yes, up to 250°C, perfect for behind stoves.
+Customer：Can I cut it to fit my kitchen tiles?
+Servicer：Yes, it’s easy to cut with scissors.
+Customer：Is it waterproof and oil-proof?
+Servicer：Yes, it resists both water and oil stains.
+Customer：Does it leave glue when removed?
+Servicer：No, it’s residue-free.
+Customer：What sizes do you offer?
+Servicer：We offer rolls in 60x300cm and 90x500cm.
+Customer：Nice, I’ll get a roll now.
+
+Food Products：
+Case1
+Goods：Instant oatmeal
+Customer：Is this oatmeal ready to eat or needs cooking?
+Servicer：It's instant, just add hot water or milk.
+Customer：What flavors are available?
+Servicer：We have original, banana, and blueberry.
+Customer：Is it sugar-free?
+Servicer：Yes, the original flavor contains no added sugar.
+Customer：How many servings per pack?
+Servicer：Each pack contains 10 individual servings.
+Customer：Is it suitable for vegetarians?
+Servicer：Absolutely, it's 100% plant-based.
+Customer：Sounds great, I’ll take the banana one.
+
+Case2
+Goods：Organic black sesame paste
+Customer：Is this black sesame paste made with organic ingredients?
+Servicer：Yes, all ingredients are certified organic.
+Customer：Is it sweetened?
+Servicer：It has light rock sugar, mildly sweet.
+Customer：How to prepare it?
+Servicer：Just mix with hot water and stir.
+Customer：Any additives or preservatives?
+Servicer：No, it's preservative-free.
+Customer：How long is the shelf life?
+Servicer：18 months when stored in a cool place.
+Customer：Perfect, I’ll order two packs.
+
+Case3
+Goods：Children's fruit and vegetable soluble beans
+Customer：Are these snacks suitable for toddlers?
+Servicer：Yes, they melt in the mouth and are safe for babies.
+Customer：What ingredients are used?
+Servicer：Real fruit puree and yogurt, no additives.
+Customer：Any sugar added?
+Servicer：No added sugar, natural sweetness only.
+Customer：How many flavors are there?
+Servicer：We have strawberry, mango, and spinach-apple.
+Customer：Are they individually packed?
+Servicer：Yes, for freshness and convenience.
+Customer：I’ll get a mixed flavor box then.
+
+Case4
+Goods：Vacuum braised duck neck
+Customer：Is this duck neck spicy?
+Servicer：Yes, it has a medium to hot spice level.
+Customer：Is it vacuum packed?
+Servicer：Yes, to lock in freshness.
+Customer：Is it ready to eat?
+Servicer：Yes, just open and enjoy.
+Customer：How’s the shelf life?
+Servicer：6 months unopened.
+Customer：Any preservatives added?
+Servicer：Only food-grade minimal additives.
+Customer：Looks tasty, I’ll get a box.
+
+Case5
+Goods：Low temperature milk
+Customer：Is this milk pasteurized or ultra-pasteurized?
+Servicer：It’s low-temp pasteurized to retain nutrients.
+Customer：How long does it last in the fridge?
+Servicer：About 7–10 days unopened.
+Customer：Does it need to stay refrigerated during delivery?
+Servicer：Yes, we use cold chain shipping.
+Customer：Is it suitable for lactose-intolerant people?
+Servicer：We also offer a lactose-free version.
+Customer：Does it contain any added sugar?
+Servicer：No, it’s pure whole milk.
+Customer：Awesome, I’ll get both types.
+
+Case6
+Goods：Nut daily pack
+Customer：Is this mixed nuts pack portioned daily?
+Servicer：Yes, 30 small bags per box.
+Customer：What kinds of nuts are included?
+Servicer：Almonds, cashews, walnuts, and dried cranberries.
+Customer：Is it roasted or raw?
+Servicer：Lightly roasted with no salt.
+Customer：Can kids eat it?
+Servicer：Yes, but please supervise due to choking risk.
+Customer：Is the packaging resealable?
+Servicer：Yes, each small bag is individually sealed.
+Customer：Great for snacks, I’ll buy a box.
+
+Case7
+Goods：Instant kelp shreds
+Customer：Is this seaweed salad spicy?
+Servicer：We have both spicy and original flavors.
+Customer：Is it pickled?
+Servicer：Yes, mildly seasoned with vinegar and chili.
+Customer：Does it need to be cooked?
+Servicer：No, just serve cold.
+Customer：How’s the texture?
+Servicer：Crisp and chewy.
+Customer：Shelf life?
+Servicer：About 9 months sealed.
+Customer：Okay, I’ll try the spicy one.
+
+Case8
+Goods：Strawberries freeze-dried
+Customer：Are these strawberries freeze-dried or baked?
+Servicer：They’re freeze-dried to retain flavor and nutrients.
+Customer：Do they have added sugar?
+Servicer：No sugar added, only natural fruit.
+Customer：Is it crunchy or chewy?
+Servicer：Very crispy, melts in the mouth.
+Customer：How are they packed?
+Servicer：Foil bags with resealable zippers.
+Customer：Can I use it in yogurt or baking?
+Servicer：Yes, perfect for both!
+Customer：Nice, I’ll get a few packs.
+
+Case9
+Goods：Instant chicken breast pack
+Customer：Is this chicken breast ready to eat?
+Servicer：Yes, it’s fully cooked and vacuum-sealed.
+Customer：Is it spicy or plain?
+Servicer：We offer original, spicy, and black pepper.
+Customer：Is it good for fitness meals?
+Servicer：Absolutely, high protein and low fat.
+Customer：Does it need refrigeration?
+Servicer：Yes, please keep it chilled.
+Customer：How long is the shelf life?
+Servicer：Up to 30 days in the fridge.
+Customer：Perfect for meal prep, I’ll take 10.
+
+Case10
+Goods：Japanese Lamian Noodles combo bag
+Customer：Does this ramen come with soup base?
+Servicer：Yes, includes broth packets and toppings.
+Customer：Is it spicy?
+Servicer：We have miso, tonkotsu, and spicy options.
+Customer：How long to cook?
+Servicer：Boil noodles for 4–5 minutes.
+Customer：Are the noodles air-dried or fried?
+Servicer：They’re air-dried, healthier than instant noodles.
+Customer：How many servings per box?
+Servicer：5 complete servings.
+Customer：Sounds tasty, I’ll buy two boxes.
+
+Case11
+Goods：Handmade niujuan sugar
+Customer：Is this nougat handmade or machine-produced?
+Servicer：It’s handmade in small batches.
+Customer：What nuts are used inside?
+Servicer：Premium almonds and peanuts.
+Customer：Is it overly sweet?
+Servicer：We use low-sugar formula, balanced taste.
+Customer：Does it stick to the teeth?
+Servicer：Not much, it’s soft and chewy.
+Customer：Are there different flavors?
+Servicer：Yes, original, matcha, and cranberry.
+Customer：I’ll try the matcha one.
+
+Case12
+Goods：Low sugar miscellaneous grain biscuits
+Customer：Are these multigrain cookies sugar-free?
+Servicer：They’re low in sugar but not completely sugar-free.
+Customer：What grains are included?
+Servicer：Oats, quinoa, buckwheat, and millet.
+Customer：Are they crunchy or soft?
+Servicer：Crunchy and light, good for snacks.
+Customer：Is it suitable for diabetics?
+Servicer：It’s better to consult a doctor, but many customers with diabetes do buy it.
+Customer：How many pieces per box?
+Servicer：About 20 individually wrapped cookies.
+Customer：Okay, I’ll take a box.
+
+Case13
+Goods：Instant sour and spicy powder
+Customer：Is this spicy vermicelli bowl ready to eat?
+Servicer：Just add boiling water and wait 5 minutes.
+Customer：How spicy is it?
+Servicer：It’s moderately spicy, suitable for most.
+Customer：What ingredients are included?
+Servicer：Sweet potato noodles, vinegar, chili oil, and peanuts.
+Customer：Is it vegetarian?
+Servicer：Yes, no meat ingredients.
+Customer：Any preservatives?
+Servicer：Minimal, just for shelf stability.
+Customer：Looks good, I’ll order some.
+
+Case14
+Goods：Instant dried tofu
+Customer：Is this tofu snack spicy?
+Servicer：We have spicy, five-spice, and original.
+Customer：Is it chewy or soft?
+Servicer：A bit chewy, great texture.
+Customer：Can I take it as a snack during hiking?
+Servicer：Yes, it’s compact and protein-rich.
+Customer：Is it packed individually?
+Servicer：Yes, each piece is vacuum packed.
+Customer：What’s the shelf life?
+Servicer：Around 180 days.
+Customer：I’ll get the five-spice one.
+
+Case15
+Goods：Instant corn cob
+Customer：Is this corn cob ready to eat?
+Servicer：Yes, it’s fully cooked, just heat or eat cold.
+Customer：Is it sweet corn?
+Servicer：Yes, sweet glutinous corn.
+Customer：How is it packed?
+Servicer：Individually vacuum-sealed.
+Customer：Does it contain additives?
+Servicer：No, just natural corn and water.
+Customer：How long can it be stored?
+Servicer：Up to 6 months unopened.
+Customer：Great, I’ll buy a few packs.
+
+Case16
+Goods：Protein Energy Bar
+Customer：How much protein is in each bar?
+Servicer：Each bar contains 12g of protein.
+Customer：Is it suitable for post-workout?
+Servicer：Yes, it’s great for recovery.
+Customer：What flavors are available?
+Servicer：Chocolate, peanut butter, and berry.
+Customer：Is it vegan?
+Servicer：Our chocolate and berry options are vegan-friendly.
+Customer：Is it low in sugar?
+Servicer：Yes, only 4g of sugar per bar.
+Customer：Sounds good, I’ll take a mixed box.
+
+Case17
+Goods：Canned Babao Congee
+Customer：Is this eight-treasure porridge sweetened?
+Servicer：Yes, mildly sweet with rock sugar.
+Customer：Do I need to heat it?
+Servicer：It’s ready to eat, but tastes better warm.
+Customer：What’s inside?
+Servicer：Red beans, barley, rice, lotus seeds, and more.
+Customer：Is it suitable for breakfast?
+Servicer：Absolutely, nutritious and filling.
+Customer：How many cans in a pack?
+Servicer：We offer 6 or 12-can packs.
+Customer：I’ll get a 12-pack then.
+
+Case18
+Goods：Low fat instant yogurt cup
+Customer：Is this yogurt cup low fat?
+Servicer：Yes, only 1.2% fat content.
+Customer：Does it contain fruit?
+Servicer：Yes, with real fruit chunks at the bottom.
+Customer：Is it overly sweet?
+Servicer：No, it has light sweetness.
+Customer：How should I store it?
+Servicer：Keep refrigerated between 0–4°C.
+Customer：How many cups in a set?
+Servicer：Comes in a set of 4.
+Customer：I’ll take two sets.
+
+Case19
+Goods：Honey grapefruit tea sauce
+Customer：Is this yuzu tea a drink or jam?
+Servicer：It’s a concentrate, mix with hot or cold water.
+Customer：Does it contain real fruit?
+Servicer：Yes, real yuzu peel and pulp.
+Customer：How sweet is it?
+Servicer：Sweet with a slight tartness.
+Customer：Is it good for sore throat?
+Servicer：Many customers say it helps soothe the throat.
+Customer：Is the jar glass or plastic?
+Servicer：It’s packed in glass jars.
+Customer：Nice, I’ll try it out.
+
+Case20
+Goods：Healthy meal replacement powder
+Customer：Is this meal replacement powder filling?
+Servicer：Yes, high in fiber and protein.
+Customer：What does it taste like?
+Servicer：We offer vanilla, cocoa, and matcha flavors.
+Customer：Is it suitable for weight control?
+Servicer：Yes, designed to replace 1–2 meals.
+Customer：How to prepare it?
+Servicer：Mix one scoop with water or milk.
+Customer：Is it gluten-free?
+Servicer：Yes, certified gluten-free.
+Customer：Perfect, I’ll buy the matcha flavor.
+
+
+
+Electronic Devices：
+Case1
+Goods：Smart bracelet
+Customer：Does this smart band support heart rate monitoring?
+Servicer：Yes, it offers 24/7 heart rate tracking.
+Customer：Can it track sleep patterns?
+Servicer：Yes, it analyzes sleep stages automatically.
+Customer：Is it waterproof?
+Servicer：Yes, it's rated IP68 waterproof.
+Customer：Does it show call and message alerts?
+Servicer：It syncs with your phone to show notifications.
+Customer：How long does the battery last?
+Servicer：Up to 10 days per charge.
+Customer：Sounds good, I’ll order one now.
+
+Case2
+Goods：Wireless Mouse
+Customer：Is this wireless mouse rechargeable or battery-powered?
+Servicer：It’s rechargeable via USB-C.
+Customer：Does it have silent clicks?
+Servicer：Yes, very quiet, great for office use.
+Customer：Can I use it with a MacBook?
+Servicer：Yes, it's compatible with Windows and macOS.
+Customer：What’s the DPI range?
+Servicer：800 to 2400 DPI adjustable.
+Customer：Is it comfortable for long use?
+Servicer：Ergonomic design fits most hand sizes.
+Customer：Okay, I’ll go for it.
+
+Case3
+Goods：Bluetooth Speaker
+Customer：Is this Bluetooth speaker waterproof?
+Servicer：Yes, it’s IPX7 waterproof, ideal for outdoor use.
+Customer：How long is the battery life?
+Servicer：Up to 12 hours of continuous playback.
+Customer：Does it support stereo pairing?
+Servicer：Yes, you can pair two for stereo sound.
+Customer：What’s the Bluetooth range?
+Servicer：About 10 meters.
+Customer：Can I answer calls with it?
+Servicer：Yes, it has a built-in microphone.
+Customer：Perfect, I’m buying one now.
+
+Case4
+Goods：Home projector
+Customer：Does this projector support 1080p resolution?
+Servicer：Yes, it supports native 1080p full HD.
+Customer：Can I connect my phone to it?
+Servicer：Yes, via HDMI or wireless mirroring.
+Customer：Is it suitable for daylight viewing?
+Servicer：Works best in dim lighting but is bright enough for daytime too.
+Customer：Does it come with a screen?
+Servicer：It includes a 100-inch foldable screen.
+Customer：What’s the lamp life?
+Servicer：Over 50,000 hours.
+Customer：Sounds great, I’ll get one.
+
+Case5
+Goods：Mechanical Keyboard
+Customer：What switch type does this mechanical keyboard use?
+Servicer：This one uses red switches – soft and quiet.
+Customer：Is it good for gaming?
+Servicer：Absolutely, low latency and fast response.
+Customer：Does it have RGB lighting?
+Servicer：Yes, fully customizable RGB backlight.
+Customer：Is it compatible with Mac?
+Servicer：Yes, with a toggle for Windows/Mac modes.
+Customer：Does it come with a wrist rest?
+Servicer：Yes, detachable and magnetic.
+Customer：Nice, I’ll place an order.
+
+Case6
+Goods：Home surveillance camera
+Customer：Is this surveillance camera wireless?
+Servicer：Yes, it connects via Wi-Fi.
+Customer：Does it support motion detection?
+Servicer：Yes, with real-time app alerts.
+Customer：Can I use it at night?
+Servicer：Yes, it has night vision up to 10 meters.
+Customer：Can I speak through it remotely?
+Servicer：Yes, two-way audio is supported.
+Customer：Is there cloud storage?
+Servicer：Yes, plus SD card storage up to 128GB.
+Customer：Great, I’ll order one for home.
+
+Case7
+Goods：Car Air Purifier
+Customer：Does this car air purifier remove PM2.5?
+Servicer：Yes, it filters PM2.5, smoke, and odors.
+Customer：Is it USB powered?
+Servicer：Yes, via car charger or USB port.
+Customer：Does it make noise?
+Servicer：Very quiet, under 30dB.
+Customer：How long does it last?
+Servicer：Filter lasts 6 months with regular use.
+Customer：Does it release any scent?
+Servicer：Optional aroma pad included.
+Customer：Sounds useful, I’ll get one.
+
+Case8
+Goods：Smart socket
+Customer：Can I control this smart plug with my phone?
+Servicer：Yes, via the app or voice control.
+Customer：Is it compatible with Alexa?
+Servicer：Yes, works with Alexa and Google Home.
+Customer：Can I set schedules?
+Servicer：Absolutely, you can program timers and routines.
+Customer：Is it safe for high-wattage devices?
+Servicer：Yes, supports up to 2500W load.
+Customer：How many plugs per pack?
+Servicer：This set includes two smart plugs.
+Customer：I’ll give it a try.
+
+Case9
+Goods：e-reader
+Customer：Does this e-reader have a backlight?
+Servicer：Yes, adjustable warm and cold light.
+Customer：Is it glare-free in sunlight?
+Servicer：Yes, the E-ink screen is great outdoors.
+Customer：Can I install third-party apps?
+Servicer：No, it's mainly for reading eBooks.
+Customer：What formats are supported?
+Servicer：EPUB, PDF, MOBI, and TXT.
+Customer：Is there a dictionary feature?
+Servicer：Yes, built-in dictionaries are available.
+Customer：Cool, I’ll buy one now.
+
+Case10
+Goods：Portable projection screen
+Customer：Is this projector screen foldable?
+Servicer：Yes, it folds for easy storage.
+Customer：What size is it?
+Servicer：It’s 120 inches in diagonal.
+Customer：Can I use it outdoors?
+Servicer：Yes, it's suitable for indoor and outdoor use.
+Customer：Does it come with a stand?
+Servicer：No stand, but hooks and ropes are included.
+Customer：Is the screen washable?
+Servicer：Yes, it's made of washable polyester.
+Customer：Great, I’ll take one.
+
+Case11
+Goods：Smart doorbell
+Customer：Does this smart doorbell have a camera?
+Servicer：Yes, it includes a 1080p HD camera.
+Customer：Can I view footage on my phone?
+Servicer：Yes, through the companion app.
+Customer：Does it have two-way audio?
+Servicer：Yes, you can speak to visitors remotely.
+Customer：What happens if someone steals it?
+Servicer：It has anti-theft alerts and cloud backup.
+Customer：Is it battery-operated or wired?
+Servicer：Battery-powered with optional wired connection.
+Customer：Nice, I’m ordering one.
+
+Case12
+Goods：USB power bank
+Customer：What’s the capacity of this power bank?
+Servicer：It has a 20,000mAh capacity.
+Customer：Can it charge laptops too?
+Servicer：Yes, if your laptop supports USB-C PD.
+Customer：How many ports does it have?
+Servicer：Three ports: two USB-A and one USB-C.
+Customer：Does it support fast charging?
+Servicer：Yes, 22.5W fast charging is supported.
+Customer：Is it allowed on flights?
+Servicer：Yes, it's airline-safe.
+Customer：Great, I’ll buy it now.
+
+Case13
+Goods：wireless charger
+Customer：Is this wireless charger compatible with iPhone?
+Servicer：Yes, it supports iPhone and Android.
+Customer：Does it support fast wireless charging?
+Servicer：Yes, up to 15W depending on device.
+Customer：Can I charge with the case on?
+Servicer：Yes, it works through most cases under 5mm.
+Customer：Is it safe for overnight charging?
+Servicer：Yes, it has overcharge and temperature protection.
+Customer：What cable does it use?
+Servicer：Type-C charging cable included.
+Customer：Okay, I’ll get one.
+
+Case14
+Goods：Digital handwriting board
+Customer：Is this drawing tablet suitable for beginners?
+Servicer：Yes, it's user-friendly with free drawing software.
+Customer：Does it support pressure sensitivity?
+Servicer：Yes, 8192 pressure levels.
+Customer：Is it compatible with Mac?
+Servicer：Yes, it works with Windows and MacOS.
+Customer：Can I use it with Photoshop?
+Servicer：Yes, fully compatible.
+Customer：Is it plug and play?
+Servicer：Yes, no driver needed for basic use.
+Customer：I’m interested, adding to cart.
+
+Case15
+Goods：Intelligent temperature controlled electric heater
+Customer：Does this heater have adjustable temperature settings?
+Servicer：Yes, it supports smart temperature control.
+Customer：Can I set a timer for it?
+Servicer：Yes, you can schedule it via remote or app.
+Customer：Is it energy efficient?
+Servicer：Yes, it has an energy-saving mode.
+Customer：Can it be wall-mounted?
+Servicer：Yes, supports both floor and wall installation.
+Customer：What’s the heating area?
+Servicer：Up to 20 square meters.
+Customer：Sounds good, I’ll take one.
+
+Case16
+Goods：Wireless printer
+Customer：Is this printer wireless?
+Servicer：Yes, it supports Wi-Fi and mobile printing.
+Customer：Does it support color printing?
+Servicer：Yes, it prints in both black-and-white and color.
+Customer：Can it scan and copy?
+Servicer：Yes, it's an all-in-one model.
+Customer：Is ink included?
+Servicer：It comes with starter ink cartridges.
+Customer：Can I use it with my phone?
+Servicer：Yes, use the app to print from phone.
+Customer：Great, buying now.
+
+Case17
+Goods：Desktop fan (USB powered)
+Customer：Is this fan USB-powered?
+Servicer：Yes, plug it into any USB port to run.
+Customer：How many speed settings?
+Servicer：It has three adjustable speeds.
+Customer：Is it quiet while running?
+Servicer：Yes, noise level is below 30dB.
+Customer：Can it rotate or stay fixed?
+Servicer：Yes, it has a 90° oscillation mode.
+Customer：Is it portable?
+Servicer：Lightweight and easy to carry.
+Customer：Perfect, I’ll get one.
+
+Case18
+Goods：Intelligent body fat scale
+Customer：Does this scale measure body fat?
+Servicer：Yes, it tracks fat, muscle, water, and BMI.
+Customer：Is there an app to sync data?
+Servicer：Yes, it syncs via Bluetooth with an app.
+Customer：Can multiple users use it?
+Servicer：Yes, it supports up to 16 users.
+Customer：Is the display clear?
+Servicer：Yes, large LED screen shows real-time data.
+Customer：Can I use it barefoot only?
+Servicer：Yes, for accurate bioelectrical readings.
+Customer：I’ll purchase one now.
+
+Case19
+Goods：Children's learning tablet
+Customer：Is this tablet suitable for kids?
+Servicer：Yes, it’s designed for ages 3 to 10.
+Customer：Does it come with educational content?
+Servicer：Yes, preloaded with learning apps and games.
+Customer：Can I control screen time?
+Servicer：Yes, includes parental control settings.
+Customer：Is the case protective?
+Servicer：Yes, comes with a shockproof case.
+Customer：Can it connect to Wi-Fi?
+Servicer：Yes, supports Wi-Fi and Bluetooth.
+Customer：Thanks! I’ll buy one for my kid.
+
+Case20
+Goods：Wireless home audio system
+Customer：Is this home audio system wireless?
+Servicer：Yes, connects via Wi-Fi and Bluetooth.
+Customer：How’s the sound quality?
+Servicer：Delivers rich bass and crisp treble.
+Customer：Can I control it via app?
+Servicer：Yes, full control via mobile app.
+Customer：Does it support multi-room sync?
+Servicer：Yes, sync across multiple speakers.
+Customer：What’s the warranty?
+Servicer：One-year manufacturer warranty included.
+Customer：Sounds perfect, I’ll order now.
+
+
+Maternity and Baby Products：
+Case1
+Goods：Baby diapers (size L)
+Customer：Are these diapers suitable for active babies?
+Servicer：Yes, they’re designed for mobility and comfort.
+Customer：Do they have good absorbency?
+Servicer：They can absorb up to 500ml and keep dry for 12 hours.
+Customer：Are they soft on the skin?
+Servicer：Yes, made from hypoallergenic, breathable cotton.
+Customer：Is there a wetness indicator?
+Servicer：Yes, the line turns blue when wet.
+Customer：How many in a pack?
+Servicer：60 pieces per pack.
+Customer：Great, I’ll get a pack.
+
+Case2
+Goods：Baby bottle (glass, 240ml)
+Customer：Is this baby bottle made of glass?
+Servicer：Yes, it's heat-resistant borosilicate glass.
+Customer：Does it come with a slow flow nipple?
+Servicer：Yes, perfect for newborns and infants.
+Customer：Is it anti-colic?
+Servicer：Yes, with a built-in air vent system.
+Customer：Can I sterilize it in boiling water?
+Servicer：Yes, it's safe for high-temperature sterilization.
+Customer：Is it BPA-free?
+Servicer：Absolutely, 100% BPA-free.
+Customer：Nice, I’ll place an order.
+
+Case3
+Goods：Baby shampoo and bath in one
+Customer：Is this shampoo suitable for newborns?
+Servicer：Yes, it's tear-free and mild for sensitive skin.
+Customer：Does it contain fragrance?
+Servicer：Light natural scent, no artificial fragrance.
+Customer：Is it organic?
+Servicer：Yes, contains certified organic ingredients.
+Customer：Does it lather well?
+Servicer：Yes, a small amount creates rich foam.
+Customer：How big is the bottle?
+Servicer：It's 300ml.
+Customer：Perfect, I’ll take one.
+
+Case4
+Goods：Multifunctional baby strap
+Customer：Can this baby carrier be used in multiple positions?
+Servicer：Yes, it supports front, back, and hip carry.
+Customer：Is it adjustable for different body sizes?
+Servicer：Yes, with adjustable straps for all caregivers.
+Customer：What’s the max weight it supports?
+Servicer：Up to 20kg.
+Customer：Is it comfortable for the baby?
+Servicer：Yes, with padded seat and head support.
+Customer：Is it washable?
+Servicer：Yes, machine washable.
+Customer：I’ll order one now.
+
+Case5
+Goods：Baby food supplement machine
+Customer：Does this baby food maker steam and blend?
+Servicer：Yes, it steams, blends, and reheats food.
+Customer：Is it easy to clean?
+Servicer：Very easy, parts are removable and dishwasher-safe.
+Customer：Is the blade stainless steel?
+Servicer：Yes, high-quality food-grade stainless steel.
+Customer：What’s the capacity?
+Servicer：600ml blending jar, 300ml water tank.
+Customer：Is it BPA-free?
+Servicer：Yes, all food contact parts are BPA-free.
+Customer：Sounds useful, buying it.
+
+Case6
+Goods：Baby monitor (with night vision)
+Customer：Does this baby monitor have night vision?
+Servicer：Yes, it has clear infrared night vision.
+Customer：Can I talk to my baby through it?
+Servicer：Yes, two-way audio is supported.
+Customer：Does it support temperature monitoring?
+Servicer：Yes, real-time room temperature display.
+Customer：Is the video feed clear?
+Servicer：Crystal-clear 720p HD display.
+Customer：Can I move the camera remotely?
+Servicer：Yes, pan and tilt remotely via the app.
+Customer：Nice, I’ll order one.
+
+Case7
+Goods：Pregnant women's waist pillow
+Customer：Is this maternity pillow good for side sleepers?
+Servicer：Yes, it supports the belly, back, and knees.
+Customer：What’s the material?
+Servicer：Memory foam with soft cotton cover.
+Customer：Is the cover removable?
+Servicer：Yes, it has a zip-off washable cover.
+Customer：Does it relieve back pain?
+Servicer：Many users report improved comfort and less pain.
+Customer：What’s the size?
+Servicer：About 140cm in total length.
+Customer：Great, I’ll get it.
+
+Case8
+Goods：Baby gum toys
+Customer：Is this teether safe for babies?
+Servicer：Yes, made from 100% food-grade silicone.
+Customer：Can it be frozen for relief?
+Servicer：Yes, it's freezer-safe for soothing gums.
+Customer：Is it BPA-free?
+Servicer：Yes, and phthalate-free too.
+Customer：Is it easy to hold?
+Servicer：Yes, designed for little hands.
+Customer：Can it be sterilized?
+Servicer：Yes, boil-safe for sterilization.
+Customer：I’ll buy it now.
+
+Case9
+Goods：Crib mosquito net
+Customer：Will this mosquito net fit all cribs?
+Servicer：It fits most standard-size cribs and bassinets.
+Customer：Is it easy to install?
+Servicer：Very simple, just tie or hook it around.
+Customer：Does it allow airflow?
+Servicer：Yes, breathable mesh fabric.
+Customer：Can it be folded for storage?
+Servicer：Yes, folds compactly when not in use.
+Customer：Is it machine washable?
+Servicer：Yes, gentle cycle recommended.
+Customer：I’ll grab one.
+
+Case10
+Goods：Baby early education book
+Customer：Are these cloth books washable?
+Servicer：Yes, they’re machine washable and durable.
+Customer：Do they make sounds?
+Servicer：Yes, some pages crinkle and squeak.
+Customer：Are they safe to chew?
+Servicer：Yes, made with non-toxic materials.
+Customer：Do they include learning content?
+Servicer：Yes, with animals, colors, and numbers.
+Customer：Suitable for what age?
+Servicer：From 3 months and up.
+Customer：Perfect gift, I’m buying.
+
+Case11
+Goods：Baby wipes (fragrance free)
+Customer：Are these baby wipes fragrance-free?
+Servicer：Yes, they’re completely unscented and gentle.
+Customer：Can they be used on the face and hands?
+Servicer：Yes, safe for full-body use.
+Customer：Do they cause any rashes?
+Servicer：No, dermatologist-tested for sensitive skin.
+Customer：Are they thick or thin?
+Servicer：They’re thick and extra moist.
+Customer：How many come in a pack?
+Servicer：80 wipes per pack.
+Customer：Great, I’ll order a few.
+
+Case12
+Goods：Baby walking shoes
+Customer：Are these baby walking shoes non-slip?
+Servicer：Yes, they have rubber anti-slip soles.
+Customer：Are they suitable for indoor and outdoor use?
+Servicer：Yes, perfect for both environments.
+Customer：Do they have ankle support?
+Servicer：Yes, with soft padding around the ankle.
+Customer：Are they breathable?
+Servicer：Yes, made with mesh fabric.
+Customer：Do they run true to size?
+Servicer：Yes, just refer to our size chart.
+Customer：Awesome, I’ll get a pair.
+
+Case13
+Goods：Nutritional supplements for pregnant women (folic acid)
+Customer：Is this folic acid supplement safe during pregnancy?
+Servicer：Yes, it’s specially formulated for pregnant women.
+Customer：How much folic acid per tablet?
+Servicer：Each contains 400 micrograms.
+Customer：Is it easy to swallow?
+Servicer：Yes, it’s a small-coated tablet.
+Customer：Any added sugar or flavors?
+Servicer：No, it’s sugar-free and tasteless.
+Customer：How many tablets per bottle?
+Servicer：90 tablets.
+Customer：Perfect, I’ll get one.
+
+Case14
+Goods：Baby tub (with thermometer)
+Customer：Does this baby bathtub come with a thermometer?
+Servicer：Yes, there's a built-in water temperature strip.
+Customer：Is the material safe for infants?
+Servicer：Yes, made of BPA-free PP plastic.
+Customer：Is it anti-slip?
+Servicer：Yes, it has a textured base and back support.
+Customer：Can it be folded for storage?
+Servicer：Yes, foldable and easy to carry.
+Customer：What age range is it for?
+Servicer：From newborn to 2 years.
+Customer：I’ll buy it today.
+
+Case15
+Goods：Baby hairdresser
+Customer：Is this hair clipper safe for infants?
+Servicer：Yes, low noise and specially designed for babies.
+Customer：Does it come with different length guards?
+Servicer：Yes, 3 different lengths included.
+Customer：Is it waterproof?
+Servicer：Yes, fully washable after use.
+Customer：How long does it run on a full charge?
+Servicer：About 60 minutes.
+Customer：Is it USB rechargeable?
+Servicer：Yes, USB-C charging supported.
+Customer：Nice, I’ll take one.
+
+Case16
+Goods：Baby anti spitting pillow
+Customer：Does this pillow help prevent reflux?
+Servicer：Yes, it’s angled to reduce spit-up after feeding.
+Customer：Is the fabric soft?
+Servicer：Very soft and breathable cotton.
+Customer：Is it suitable for newborns?
+Servicer：Yes, designed for 0–6 months.
+Customer：Can the cover be washed?
+Servicer：Yes, removable and machine washable.
+Customer：Is it firm enough?
+Servicer：Yes, supports baby’s neck gently.
+Customer：I’ll get one now.
+
+Case17
+Goods：Baby thermos bag
+Customer：How long can this bottle bag keep milk warm?
+Servicer：Up to 4 hours with insulation.
+Customer：Does it fit wide-neck bottles?
+Servicer：Yes, it fits most 240–300ml bottles.
+Customer：Is the strap adjustable?
+Servicer：Yes, for easy carrying or hanging.
+Customer：What material is it made from?
+Servicer：Insulated oxford cloth, very durable.
+Customer：Can I clean it with a damp cloth?
+Servicer：Yes, it’s water-resistant outside.
+Customer：Nice, adding it to cart.
+
+Case18
+Goods：Baby pacifier (0 – 6 months)
+Customer：Is this pacifier BPA-free?
+Servicer：Yes, 100% BPA and latex-free.
+Customer：Is the nipple orthodontic shape?
+Servicer：Yes, designed to support oral development.
+Customer：Can it be sterilized in boiling water?
+Servicer：Yes, boil for 5 minutes before first use.
+Customer：Does it come with a cover?
+Servicer：Yes, includes a hygienic cap.
+Customer：What color options do you have?
+Servicer：Pink, blue, and neutral green.
+Customer：I’ll order a set.
+
+Case19
+Goods：Stroller hook
+Customer：Are these stroller hooks sturdy?
+Servicer：Yes, they can hold up to 5kg each.
+Customer：Do they rotate?
+Servicer：Yes, 360-degree rotation.
+Customer：Are they universal for any stroller?
+Servicer：Yes, adjustable velcro straps fit most.
+Customer：Are they sold in pairs?
+Servicer：Yes, 2 hooks per pack.
+Customer：Great, I need one set.
+Servicer：Got it! Adding to your order.
+
+Case20
+Goods：Baby crash corner suit
+Customer：Are these corner guards safe for babies?
+Servicer：Yes, made from soft, food-grade silicone.
+Customer：Do they stick firmly to furniture?
+Servicer：Yes, with strong double-sided tape included.
+Customer：Can I use them on glass tables?
+Servicer：Yes, they work on wood, glass, and metal.
+Customer：How many come in one pack?
+Servicer：12 pieces per set.
+Customer：Are they easy to remove later?
+Servicer：Yes, and won’t damage furniture.
+Customer：Ordering them now!
+
+
+Beauty Products：
+
+Case1
+Goods：Matte lipstick (durable）
+Customer：Is this matte lipstick long-lasting?
+Servicer：Yes, it lasts up to 8 hours without fading.
+Customer：Does it dry out the lips?
+Servicer：No, it contains moisturizing ingredients like vitamin E.
+Customer：Is the color true to the pictures?
+Servicer：Yes, but slight variation may occur due to screen settings.
+Customer：Does it transfer when drinking?
+Servicer：Minimal transfer after drying completely.
+Customer：What shades are available?
+Servicer：We offer 12 shades from nude to bold red.
+Customer：Great, I’ll try the rose pink.
+
+Case2
+Goods：Sunscreen spf50+(refreshing)
+Customer：Is this sunscreen greasy?
+Servicer：No, it has a lightweight, non-greasy formula.
+Customer：Can I use it under makeup?
+Servicer：Yes, it works well as a primer too.
+Customer：Is it waterproof?
+Servicer：Yes, it provides water resistance for up to 80 minutes.
+Customer：Suitable for sensitive skin?
+Servicer：Yes, dermatologist-tested and fragrance-free.
+Customer：Is it chemical or physical sunscreen?
+Servicer：It’s a hybrid with both types of protection.
+Customer：Perfect, I’ll buy a bottle.
+
+Case3
+Goods：Three piece eyebrow trimming knife set
+Customer：Is this eyebrow razor safe for beginners?
+Servicer：Yes, it’s designed with a safety guard.
+Customer：Does it cause irritation?
+Servicer：No, the blade is gentle on the skin.
+Customer：Are the handles easy to grip?
+Servicer：Yes, non-slip ergonomic handles.
+Customer：Can it be used on peach fuzz too?
+Servicer：Yes, works well on fine facial hair.
+Customer：How many razors come in the pack?
+Servicer：Three razors in one set.
+Customer：Alright, I’ll order one.
+
+Case4
+Goods：Beauty egg (dry and wet)
+Customer：Is this beauty blender soft?
+Servicer：Yes, it’s very soft and bouncy.
+Customer：Can it be used both wet and dry?
+Servicer：Exactly, it expands when wet for a smoother finish.
+Customer：Is it easy to clean?
+Servicer：Yes, just rinse with gentle soap.
+Customer：Does it come with a holder?
+Servicer：Yes, we include a drying stand.
+Customer：How many in a set?
+Servicer：Two sponges and one stand.
+Customer：Nice, I’ll get it.
+
+Case5
+Goods：Eyelash growth liquid
+Customer：Does this eyelash serum really work?
+Servicer：Yes, most users see results in 4–6 weeks.
+Customer：Is it safe for sensitive eyes?
+Servicer：Yes, ophthalmologist-tested and fragrance-free.
+Customer：How often should I apply it?
+Servicer：Once a day, preferably at night.
+Customer：Can I use mascara over it?
+Servicer：Yes, just let it dry first.
+Customer：Will it cause dark circles?
+Servicer：No, we use a gentle, non-irritating formula.
+Customer：Alright, I’ll try it.
+
+Case6
+Goods：Makeup remover oil (plant formula)
+Customer：Is this cleansing oil suitable for oily skin?
+Servicer：Yes, it dissolves makeup without clogging pores.
+Customer：Does it emulsify well with water?
+Servicer：Yes, turns into a milky texture when rinsed.
+Customer：Any artificial fragrance added?
+Servicer：No, it has only natural botanical extracts.
+Customer：Can it remove waterproof mascara?
+Servicer：Yes, effectively removes waterproof products.
+Customer：How big is the bottle?
+Servicer：150ml per bottle.
+Customer：Thanks, I’ll order one.
+
+Case7
+Goods：Double head eyebrow pencil (waterproof)
+Customer：Is this eyebrow pencil waterproof?
+Servicer：Yes, it stays on even with sweat or light rain.
+Customer：Is it easy to use for beginners?
+Servicer：Yes, one end for shaping and one for filling.
+Customer：Does it smudge easily?
+Servicer：No, it sets quickly and stays put.
+Customer：How many shades are there?
+Servicer：Five shades from light brown to dark gray.
+Customer：Is it refillable?
+Servicer：This version is not, but we offer refills separately.
+Customer：Good to know, I’ll try it.
+
+Case8
+Goods：collagen mask 
+Customer：Does this mask help with skin elasticity?
+Servicer：Yes, it’s rich in collagen for firming effects.
+Customer：Is it suitable for dry skin?
+Servicer：Yes, also contains hyaluronic acid for hydration.
+Customer：How often should I use it?
+Servicer：2–3 times a week is ideal.
+Customer：Is the essence sticky afterward?
+Servicer：No, it absorbs quickly into the skin.
+Customer：How many sheets in a box?
+Servicer：10 masks per box.
+Customer：Perfect, I’ll get one.
+
+Case9
+Goods：Fixed makeup spray (makeup holding type)
+Customer：How long does this setting spray last?
+Servicer：It keeps makeup in place for up to 12 hours.
+Customer：Will it make my skin oily?
+Servicer：No, it has an oil-control formula.
+Customer：Does it feel heavy on the face?
+Servicer：Not at all, it’s ultra-light and refreshing.
+Customer：Can I spray it before and after makeup?
+Servicer：Yes, for better adherence and finishing.
+Customer：Is it suitable for sensitive skin?
+Servicer：Yes, alcohol-free and dermatologically tested.
+Customer：Great, adding it to cart.
+
+Case10
+Goods：Slim high CD
+Customer：Is this contour palette pigmented?
+Servicer：Yes, highly pigmented with buildable shades.
+Customer：Does it come with both contour and highlight?
+Servicer：Yes, 3 contour and 2 highlight shades included.
+Customer：Is it powder or cream texture?
+Servicer：Powder texture for easier blending.
+Customer：Does it suit fair skin?
+Servicer：Yes, and we offer variants for different tones.
+Customer：Does it come with a brush?
+Servicer：This version doesn’t, but brushes are sold separately.
+Customer：Okay, I’ll buy the palette.
+
+Case11
+Goods：Liquid Eyeliner (quick drying type)
+Customer：Is this eyeliner smudge-proof?
+Servicer：Yes, it dries quickly and resists smudging.
+Customer：Is the tip fine enough for winged liner?
+Servicer：Yes, it has a 0.01mm ultra-fine tip.
+Customer：Can beginners use it easily?
+Servicer：Yes, it glides on smoothly and evenly.
+Customer：Does it stay all day?
+Servicer：It lasts up to 12 hours without fading.
+Customer：Is it easy to remove?
+Servicer：Yes, just use warm water or makeup remover.
+Customer：Sounds great, I’ll order one.
+
+Case12
+Goods：Concealer (high concealment)
+Customer：Does this concealer cover dark circles well?
+Servicer：Yes, it offers high coverage with a natural finish.
+Customer：Is it cakey under the eyes?
+Servicer：No, it’s lightweight and crease-resistant.
+Customer：Can it be used on blemishes too?
+Servicer：Absolutely, suitable for all facial imperfections.
+Customer：How many shades do you have?
+Servicer：We have 10 shades from light to deep tones.
+Customer：Is it long-wearing?
+Servicer：Yes, it stays put for up to 10 hours.
+Customer：Great, I’ll choose my shade.
+
+Case13
+Goods：Moisturizing Emulsion (hyaluronic acid formula)
+Customer：Is this moisturizer suitable for dry skin?
+Servicer：Yes, it's infused with hyaluronic acid for deep hydration.
+Customer：Can I use it under makeup?
+Servicer：Yes, it creates a smooth, moisturized base.
+Customer：Is it fragrance-free?
+Servicer：Yes, suitable for sensitive skin.
+Customer：Does it absorb quickly?
+Servicer：Very fast, with no sticky residue.
+Customer：What size is the bottle?
+Servicer：It’s 100ml, good for daily use.
+Customer：Alright, I’ll buy one.
+
+Case14
+Goods：Lip scrub (natural ingredient)
+Customer：Is this lip scrub edible-safe?
+Servicer：Yes, it’s made from food-grade ingredients.
+Customer：Does it help with chapped lips?
+Servicer：Absolutely, it exfoliates and hydrates.
+Customer：What flavor is it?
+Servicer：This one is vanilla mint.
+Customer：Can I use it daily?
+Servicer：2–3 times a week is recommended.
+Customer：Is it travel-friendly?
+Servicer：Yes, compact 15g jar.
+Customer：Perfect, I’ll try it.
+
+Case15
+Goods：Nail polish suit (non-toxic quick drying)
+Customer：Is this nail polish set toxic-free?
+Servicer：Yes, it’s 10-free and safe to use.
+Customer：How long does it take to dry?
+Servicer：Dries in about 60 seconds.
+Customer：How many colors are included?
+Servicer：There are 6 trendy shades in one box.
+Customer：Does it chip easily?
+Servicer：No, it lasts 5–7 days without chipping.
+Customer：Is it easy to remove?
+Servicer：Yes, just use standard nail polish remover.
+Customer：Awesome, I’ll buy a set.
+
+Case16
+Goods：Night Repair face cream
+Customer：Does this night cream help with fine lines?
+Servicer：Yes, it’s formulated with retinol and peptides.
+Customer：Will it irritate sensitive skin?
+Servicer：It’s dermatologically tested, but patch test is advised.
+Customer：Is it greasy?
+Servicer：No, absorbs quickly and leaves skin smooth.
+Customer：How often should I apply it?
+Servicer：Every night after cleansing.
+Customer：Does it have fragrance?
+Servicer：Light herbal scent, no artificial perfume.
+Customer：Sounds nice, I’ll try it.
+
+Case17
+Goods：Eyelash curler (not damaging eyelashes)
+Customer：Is this eyelash curler good for short lashes?
+Servicer：Yes, its arc fits all eye shapes.
+Customer：Does it pinch the skin?
+Servicer：No, it has a soft silicone pad for protection.
+Customer：Is it durable?
+Servicer：Made of stainless steel, very sturdy.
+Customer：Does it come with extra pads?
+Servicer：Yes, includes 2 refill pads.
+Customer：Is it lightweight?
+Servicer：Yes, easy to carry and use.
+Customer：Okay, I’ll get one.
+
+Case18
+Goods：BB cream (concealer+moisturizing)
+Customer：Does this BB cream offer good coverage?
+Servicer：Yes, it combines coverage with skincare.
+Customer：Is it suitable for oily skin?
+Servicer：Yes, it has an oil-control formula.
+Customer：Does it oxidize during the day?
+Servicer：Very minimal, stays true to tone.
+Customer：What SPF does it have?
+Servicer：SPF30, provides daily sun protection.
+Customer：Is it lightweight?
+Servicer：Yes, perfect for a no-makeup look.
+Customer：Nice, I’ll give it a try.
+
+Case19
+Goods：Makeup brush set (10 piece set)
+Customer：How many brushes in this set?
+Servicer：10 brushes including face and eye tools.
+Customer：Are they soft?
+Servicer：Yes, made with synthetic cruelty-free bristles.
+Customer：Do they shed easily?
+Servicer：No, they’re tightly packed and durable.
+Customer：Is there a case included?
+Servicer：Yes, comes with a zip pouch for storage.
+Customer：Are they suitable for cream products?
+Servicer：Yes, for both powder and cream makeup.
+Customer：Perfect, ordering now.
+
+Case20
+Goods：Lipstick (three packs)）
+Customer：Is this lip balm set flavored?
+Servicer：Yes, includes strawberry, mint, and peach.
+Customer：Is it tinted or clear?
+Servicer：These are clear and shine-free.
+Customer：Can kids use them?
+Servicer：Yes, made with safe natural oils.
+Customer：How long does each stick last?
+Servicer：Usually about 3–4 weeks with daily use.
+Customer：Is it suitable for winter?
+Servicer：Absolutely, very effective for dry lips.
+Customer：Alright, I’ll buy the set.
+
+
+Health and Medical Supplies：
+Case1
+Goods：Household electronic blood pressure monitor (arm type)
+Customer：Is this blood pressure monitor accurate?
+Servicer：Yes, it’s clinically tested for accuracy.
+Customer：Is it suitable for the elderly?
+Servicer：Absolutely, it has a large screen and one-button operation.
+Customer：Does it support memory storage?
+Servicer：Yes, it stores up to 90 readings.
+Customer：Can it detect irregular heartbeat?
+Servicer：Yes, it has an irregular heartbeat indicator.
+Customer：Is the cuff adjustable?
+Servicer：Yes, fits arms from 22–42 cm.
+Customer：Sounds reliable. I’ll order one for my parents.
+
+Case2
+Goods：Infrared forehead temperature gun
+Customer：Does this forehead thermometer give quick readings?
+Servicer：Yes, it reads in just 1 second.
+Customer：Is it contactless?
+Servicer：Yes, totally no-touch design.
+Customer：Can it be used for both adults and kids?
+Servicer：Yes, suitable for all ages.
+Customer：Is it silent during use?
+Servicer：Yes, has a silent mode for nighttime readings.
+Customer：How long does the battery last?
+Servicer：With regular use, it lasts around 3 months.
+Customer：Nice, I’ll buy one for home use.
+
+Case3
+Goods：Medical mask (disposable three-layer)
+Customer：Are these masks medical-grade?
+Servicer：Yes, they meet surgical protection standards.
+Customer：How many are in one box?
+Servicer：There are 50 masks per box.
+Customer：Are they breathable?
+Servicer：Yes, with a melt-blown filter layer for airflow.
+Customer：Do they have a nose clip?
+Servicer：Yes, for better fit and sealing.
+Customer：Are the ear loops comfortable?
+Servicer：Yes, elastic and non-irritating.
+Customer：Great, I’ll order a few boxes.
+
+Case4
+Goods：Belt protector (pressure support type)
+Customer：Is this back brace adjustable?
+Servicer：Yes, with double elastic straps for firm support.
+Customer：Can it be worn under clothes?
+Servicer：Yes, it’s slim and breathable.
+Customer：Is it good for lower back pain?
+Servicer：Yes, ideal for lumbar support and posture correction.
+Customer：What sizes do you have?
+Servicer：From S to XXL, please refer to our size chart.
+Customer：Is it washable?
+Servicer：Hand wash is recommended.
+Customer：Alright, I’ll choose my size.
+
+Case5
+Goods：Medical cold compress patch (neck and shoulder specific)
+Customer：Is this cooling patch suitable for neck pain?
+Servicer：Yes, specially designed for neck and shoulder areas.
+Customer：How long does one patch last?
+Servicer：Up to 8 hours of cooling relief.
+Customer：Is it safe for daily use?
+Servicer：Yes, made from herbal ingredients.
+Customer：Does it stick firmly?
+Servicer：Yes, it won’t fall off during daily activity.
+Customer：How many patches per pack?
+Servicer：Each pack includes 6 patches.
+Customer：Perfect, I’ll try a box.
+
+Case6
+Goods：Electronic weight scale (smart Bluetooth)
+Customer：Does this scale support Bluetooth?
+Servicer：Yes, it syncs with our mobile app.
+Customer：Can it track more than weight?
+Servicer：Yes, it tracks BMI, body fat, and more.
+Customer：How many users can it store?
+Servicer：Up to 8 profiles.
+Customer：Is it accurate?
+Servicer：Yes, uses 4 high-precision sensors.
+Customer：What’s the max weight limit?
+Servicer：It supports up to 180kg.
+Customer：Sounds good, I’ll get one.
+
+Case7
+Goods：Eye massager (heating+air pressure)
+Customer：Does this eye massager help with fatigue?
+Servicer：Yes, it relieves eye strain and improves sleep.
+Customer：Is it heated?
+Servicer：Yes, constant 40°C warmth.
+Customer：Is it foldable?
+Servicer：Yes, very portable and travel-friendly.
+Customer：How long is one massage session?
+Servicer：About 15 minutes per session.
+Customer：Is it noisy?
+Servicer：Very quiet operation.
+Customer：Nice, I’ll place an order.
+
+Case8
+Goods：Portable oxygen cylinder (home emergency type)
+Customer：Is this portable oxygen canister safe to use at home?
+Servicer：Yes, designed for non-medical oxygen supplementation.
+Customer：How many liters per can?
+Servicer：Each can contains 10L of oxygen.
+Customer：Is a mask included?
+Servicer：Yes, comes with an attached mask and valve.
+Customer：Can it be reused?
+Servicer：No, it's single-use only.
+Customer：How long does it last?
+Servicer：Roughly 100 breaths.
+Customer：Alright, I’ll get two cans.
+
+Case9
+Goods：Anti slip walking aid cane (LED illuminated version)
+Customer：Is this cane suitable for seniors?
+Servicer：Yes, designed with ergonomic grip and stability base.
+Customer：Does it have height adjustment?
+Servicer：Yes, adjustable to 5 levels.
+Customer：Does it really come with a flashlight?
+Servicer：Yes, LED light for night safety.
+Customer：Is the base anti-slip?
+Servicer：Yes, with a rubberized multi-foot base.
+Customer：Can it stand on its own?
+Servicer：Yes, it’s free-standing.
+Customer：Perfect, I’ll order one for grandpa.
+
+Case10
+Goods：Cervical traction pillow (U-shaped airbag type)
+Customer：Does this neck traction pillow relieve neck pain?
+Servicer：Yes, it stretches and relaxes cervical muscles.
+Customer：Is it inflatable?
+Servicer：Yes, with a hand pump to adjust pressure.
+Customer：Can it be used at work?
+Servicer：Yes, lightweight and easy to carry.
+Customer：Is the fabric soft?
+Servicer：Yes, made from velvet-like material.
+Customer：How often should I use it?
+Servicer：10–15 minutes per session, 2–3 times daily.
+Customer：Thanks, I’ll buy one.
+
+Case11
+Goods：Medical cold spray (oral and throat spray)
+Customer：Is this throat spray suitable for sore throats?
+Servicer：Yes, it's designed to relieve pain and reduce inflammation.
+Customer：Is it alcohol-free?
+Servicer：Yes, it's alcohol-free and gentle.
+Customer：Can it be used by kids?
+Servicer：Yes, safe for children over 6 years old.
+Customer：How often can I use it daily?
+Servicer：Up to 5 times a day, 1–2 sprays each time.
+Customer：Is it bitter?
+Servicer：It has a mild minty flavor.
+Customer：Sounds good. I’ll add one to my cart.
+
+Case12
+Goods：Medical antipyretic patch (for children only)
+Customer：Is this cooling patch safe for toddlers?
+Servicer：Yes, suitable for babies over 6 months.
+Customer：How long does each patch work?
+Servicer：Each patch provides cooling for up to 8 hours.
+Customer：Is it reusable?
+Servicer：No, it’s for single-use only.
+Customer：Does it contain any medication?
+Servicer：No, it works via physical cooling only.
+Customer：How many patches in a box?
+Servicer：There are 6 patches per box.
+Customer：Great, I’ll buy a few boxes.
+
+Case13
+Goods：Family medicine storage box (portable large capacity)
+Customer：Does this medical box have compartments?
+Servicer：Yes, it has multiple layers and dividers.
+Customer：Is it lockable?
+Servicer：Yes, it comes with a safety lock.
+Customer：Is it big enough for a whole family’s medicine?
+Servicer：Yes, it can hold over 50 items.
+Customer：What material is it made of?
+Servicer：Durable, non-toxic ABS plastic.
+Customer：Can it be carried easily?
+Servicer：Yes, it has a foldable handle.
+Customer：Perfect. I’ll get one.
+
+Case14
+Goods：Electronic Ear Temperature Gun (Baby specific)
+Customer：Is this ear thermometer suitable for infants?
+Servicer：Yes, safe for babies over 3 months.
+Customer：Is the tip soft?
+Servicer：Yes, with a gentle silicone head.
+Customer：Does it have a fever alert?
+Servicer：Yes, it beeps and changes color.
+Customer：How fast is the reading?
+Servicer：It gives results in 1 second.
+Customer：Can it save past readings?
+Servicer：Yes, stores 20 temperature records.
+Customer：Nice, I’ll take one.
+
+Case15
+Goods：Ice pack 
+Customer：Can this ice pack be reused?
+Servicer：Yes, it’s designed for repeated use.
+Customer：How long does it stay cold?
+Servicer：Around 20–30 minutes depending on conditions.
+Customer：Is it microwave-safe for heat use?
+Servicer：Yes, for warm compresses too.
+Customer：Is the outer layer soft?
+Servicer：Yes, covered with soft non-woven fabric.
+Customer：Can it be used on injuries?
+Servicer：Yes, perfect for sprains and swelling.
+Customer：Good, I’ll get one.
+
+Case16
+Goods：Medical knee pads (elastic version)
+Customer：Is this knee support good for joint pain?
+Servicer：Yes, it provides compression and stability.
+Customer：Does it slide down easily?
+Servicer：No, it has anti-slip silicone bands.
+Customer：Is it breathable?
+Servicer：Yes, made from ventilated fabric.
+Customer：Can I wear it during sports?
+Servicer：Yes, ideal for running or workouts.
+Customer：Is it machine washable?
+Servicer：We recommend hand wash for longevity.
+Customer：Alright, ordering now.
+
+Case17
+Goods：Manual nasal wash (physiological saline flushing)
+Customer：Is this nasal rinse safe for sinus issues?
+Servicer：Yes, it’s gentle and helps clear nasal passages.
+Customer：Is saline solution included?
+Servicer：Yes, includes 30 sachets of saline powder.
+Customer：How much water does it hold?
+Servicer：It holds 300ml per use.
+Customer：Is the nozzle soft?
+Servicer：Yes, made from food-grade silicone.
+Customer：Can children use it too?
+Servicer：Recommended for ages 8 and up.
+Customer：Thanks! I’ll order it.
+
+Case18
+Goods：Pregnant women's waist pillow
+Customer：Is this pillow comfortable for pregnant women?
+Servicer：Yes, it’s specially designed for side sleeping.
+Customer：Does it support the belly and back?
+Servicer：Yes, provides 360° support.
+Customer：Is the cover removable?
+Servicer：Yes, and machine washable.
+Customer：Can I use it postpartum too?
+Servicer：Yes, great for breastfeeding support as well.
+Customer：What material is it made of?
+Servicer：Soft cotton with polyester filling.
+Customer：Sounds perfect. I’ll get one.
+
+Case19
+Goods：Family blood glucose meter set
+Customer：Is this glucometer easy to use at home?
+Servicer：Yes, just insert strip and test in seconds.
+Customer：Are test strips included?
+Servicer：Yes, comes with 50 test strips.
+Customer：Is it pain-free?
+Servicer：Comes with a low-pain lancing device.
+Customer：Does it show average values?
+Servicer：Yes, it calculates 7/14/30-day averages.
+Customer：Can I take it while traveling?
+Servicer：Yes, very compact.
+Customer：Great, I’ll get this set.
+
+Case20
+Goods：Medical wrist guard
+Customer：Is this wrist brace suitable for carpal tunnel?
+Servicer：Yes, supports the wrist and reduces pressure.
+Customer：Is it adjustable?
+Servicer：Yes, with Velcro straps for perfect fit.
+Customer：Can I wear it all day?
+Servicer：Yes, it’s comfortable for extended use.
+Customer：Is it left/right hand specific?
+Servicer：This model is universal for both hands.
+Customer：Is it breathable?
+Servicer：Yes, made with mesh fabric.
+Customer：Okay, I’ll buy one.
